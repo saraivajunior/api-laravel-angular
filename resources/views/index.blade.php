@@ -12,6 +12,7 @@
     <script src="bower_components/restangular/dist/restangular.min.js"></script>
     <script src="js/app.js"></script>
     <script src="js/controllers.js"></script>
+    <script src="js/services.js"></script>
     <style>        
         li { padding-bottom: 8px; }
     </style>
