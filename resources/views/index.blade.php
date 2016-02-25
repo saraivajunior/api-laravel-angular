@@ -11,8 +11,9 @@
     <script src="bower_components/angular-local-storage/dist/angular-local-storage.min.js"></script>
     <script src="bower_components/restangular/dist/restangular.min.js"></script>
     <script src="js/app.js"></script>
-    <script src="js/controllers.js"></script>
     <script src="js/services.js"></script>
+    <script src="js/controllers.js"></script>
+
     <style>        
         li { padding-bottom: 8px; }
     </style>
